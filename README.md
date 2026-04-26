@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Samuel Alves de Sousa
-![header](https://capsule-render.vercel.app/api?type=wave&text=Samuel&fontSize=40&height=200&color=0:0F2027,100:2C5364&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&text=Samuel%20Alves%20de%20Sousa&fontSize=35&height=200&color=0:0f172a,100:00FF00&fontColor=ffffff)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Full-stack+developer+em+formação;Node.js+%7C+Front-end+%7C+IA+%7C+AWS;Focado+em+automação+e+sistemas+ERP)
 
