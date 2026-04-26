@@ -49,8 +49,8 @@ Busco oportunidade de estágio como desenvolvedor, onde eu possa aplicar meus co
 
 ## 🌐 Contato
 
-📎 LinkedIn: (coloque seu link aqui)  
-📧 Email: (opcional)  
+📎 LinkedIn: (https://www.linkedin.com/in/samuelalvessousa/)  
+📧 Email: (samuel.sousauni@gmail.com)  
 
 ---
 
