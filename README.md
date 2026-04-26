@@ -37,10 +37,6 @@ Desenvolvido com Node.js no back-end e interface web integrada.
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s7muelss&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s7muelss&layout=compact&theme=tokyonight)
 
 ---
